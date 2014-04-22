@@ -1,3 +1,0 @@
-# Ruby / Rails
-
-## Sumário
