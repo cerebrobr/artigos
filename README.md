@@ -38,7 +38,7 @@ Este repositório é uma extensão do repsitório **biblioteca** onde contém so
 **Task Runner**
 
 - [Grunt](grunt.md)
-- [Grunt](gulp.md)
+- [Gulp](gulp.md)
 
 **Package Managers**
 
