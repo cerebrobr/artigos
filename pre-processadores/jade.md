@@ -1,4 +1,4 @@
-# EmberJS
+# Aprendendo Jade
 
 ---
 

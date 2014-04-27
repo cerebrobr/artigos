@@ -1,4 +1,4 @@
-# Shell Script
+# Aprendendo Rails
 
 ---
 

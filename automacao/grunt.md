@@ -1,4 +1,4 @@
-# Grunt
+# Aprendendo  Grunt
 
 - [GruntJS – Por onde começar?](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 - [Grunt: você deveria estar usando!](http://tableless.com.br/grunt-voce-deveria-estar-usando/#.UbqFChXwJ-Y)

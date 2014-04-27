@@ -1,4 +1,4 @@
-# Stylus
+# Aprendendo EmberJS
 
 ---
 

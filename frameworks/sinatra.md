@@ -1,4 +1,4 @@
-# Backbone
+# Aprendendo Sinatra
 
 ---
 
