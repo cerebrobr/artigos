@@ -1,6 +1,6 @@
 # Artigos
 
-Este repositório é uma extensão do repsitório **biblioteca** onde contém somente artigos e traduções na lingua nativa.
+Este repositório é uma extensão do repositório **biblioteca** onde contém somente artigos e traduções na lingua nativa.
 
 > Nota: os artigos traduzidos estarão destacados com uma tag `tradução`.
 
