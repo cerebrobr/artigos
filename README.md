@@ -6,47 +6,58 @@ Este espaço é uma extensão do repositório **biblioteca** onde contém soment
 
 ## Sumário
 
-**Linguagens**
+#### Automação
 
-- [JavaScript](javascript.md)
-- [CSS](css.md)
-- [PHP](php.md)
-- [Shell](shell.md)
+- [Bower](https://github.com/cerebrobr/artigos/blob/master/automacao/bower.md)
+- [Composer](https://github.com/cerebrobr/artigos/blob/master/automacao/composer.md)
+- [Grunt](https://github.com/cerebrobr/artigos/blob/master/automacao/grunt.md)
+- [Gulp](https://github.com/cerebrobr/artigos/blob/master/automacao/gulp.md)
 
-**Frameworks**
+#### CMS
 
-- [AngularJS](angularjs.md)
-- [EmberJS](emberjs.md)
-- [Backbone](backbone.md)
+- [Wordpress](https://github.com/cerebrobr/artigos/blob/master/cms/wordpress.md)
 
-**Pré-processadores**
+#### Ferramentas
 
-- [Sass](sass.md)
-- [Stylus](stylus.md)
-- [LESS](less.md)
+- [Git](https://github.com/cerebrobr/artigos/blob/master/ferramentas/git.md)
+- [JSON](https://github.com/cerebrobr/artigos/blob/master/ferramentas/json.md)
+- [Karma](https://github.com/cerebrobr/artigos/blob/master/ferramentas/karma.md)
+- [Vagrant](https://github.com/cerebrobr/artigos/blob/master/ferramentas/vagrant.md)
+- [Yeoman](https://github.com/cerebrobr/artigos/blob/master/ferramentas/yeoman.md)
 
-**Transpilers**
+#### Frameworks
 
-- [CoffeeScript](coffeescript.md)
+- [AngularJS](https://github.com/cerebrobr/artigos/blob/master/frameworks/angularjs.md)
+- [Backbone](https://github.com/cerebrobr/artigos/blob/master/frameworks/backbone.md)
+- [Ember.js](https://github.com/cerebrobr/artigos/blob/master/frameworks/emberjs.md)
+- [Rails](https://github.com/cerebrobr/artigos/blob/master/frameworks/rails.md)
+- [Sinatra](https://github.com/cerebrobr/artigos/blob/master/frameworks/sinatra.md)
 
-**Template Engine**
+#### Linguagens
 
-- [Jade](jade.md)
-- [EJS](ejs.md)
-- [Haml](haml.md)
+- [CSS](https://github.com/cerebrobr/artigos/blob/master/linguagens/css.md)
+- [JavaScript](https://github.com/cerebrobr/artigos/blob/master/linguagens/javascript.md)
+- [PHP](https://github.com/cerebrobr/artigos/blob/master/linguagens/php.md)
+- [Shell](https://github.com/cerebrobr/artigos/blob/master/linguagens/shell.md)
 
-**Task Runner**
+#### Pré-processadores
 
-- [Grunt](grunt.md)
-- [Gulp](gulp.md)
+- [CoffeeScript](https://github.com/cerebrobr/artigos/blob/master/pre-processadores/coffeescript.md)
+- [EJS](https://github.com/cerebrobr/artigos/blob/master/pre-processadores/ejs.md)
+- [Haml](https://github.com/cerebrobr/artigos/blob/master/pre-processadores/haml.md)
+- [Jade](https://github.com/cerebrobr/artigos/blob/master/pre-processadores/jade.md)
+- [LESS](https://github.com/cerebrobr/artigos/blob/master/pre-processadores/less.md)
+- [Sass](https://github.com/cerebrobr/artigos/blob/master/pre-processadores/sass.md)
+- [Stylus](https://github.com/cerebrobr/artigos/blob/master/pre-processadores/stylus.md)
 
-**Package Managers**
+#### Testes
 
-- [Bower](bower.md)
+- [E2E](https://github.com/cerebrobr/artigos/blob/master/testes/e2e.md)
+- [TDD e BDD](https://github.com/cerebrobr/artigos/blob/master/testes/tdd-bdd.md)
 
-**Lint**
+#### Web Servers
 
-- [JSHint](jshint.md)
+- [Nginx](https://github.com/cerebrobr/artigos/blob/master/web-servers/nginx.md)
 
 <br/>
 
