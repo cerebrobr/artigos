@@ -50,7 +50,7 @@ Este repositório é uma extensão do repsitório **biblioteca** onde contém so
 
 **CMS**
 
-- [WordPress](wordpress.md)
+- [WordPress](cms/wordpress.md)
 
 <br/>
 
