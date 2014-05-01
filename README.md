@@ -30,7 +30,7 @@ Este repositório é uma extensão do repsitório **biblioteca** onde contém so
 - [CoffeeScript](coffeescript.md)
 
 **Template Engine**
-
+		
 - [Jade](jade.md)
 - [EJS](ejs.md)
 - [Haml](haml.md)
@@ -47,6 +47,10 @@ Este repositório é uma extensão do repsitório **biblioteca** onde contém so
 **Lint**
 
 - [JSHint](jshint.md)
+
+**CMS**
+
+- [WordPress](wordpress.md)
 
 <br/>
 
