@@ -33,7 +33,6 @@
 - [Usando Gulp na criação de temas para WordPress](http://claudiosmweb.com/wordpress/usando-gulp-com-wordpress/)
 - [Adicionando tamanhos de imagens customizados na biblioteca de midias do WordPress 3.5](http://wpmidia.com.br/laboratorio/adicionando-tamanhos-de-imagens-customizados-na-biblioteca-de-midias-wordpress-3-5/)
 - [SQL Update para ajudar na substituição de URL's em casos de migração para novo dominio](http://humbertobz.net/sql-de-update-para-migrar-wordpress/)
-- [WP_Query](WP_Query.md)
 - [GruntJS e WordPress - Ernandes Ferreira](http://ernandesferreira.me/odin/gruntjs-tutorial/)
 
 ## Referências
