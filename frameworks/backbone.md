@@ -1,5 +1,3 @@
 # Aprendendo Backbone
 
----
-
-#### [Como Contribuir](https://github.com/cerebrobr/cerebro/blob/master/README.md#como-contribuir)
+- [Série Backbone.js](http://fernandomantoan.com/category/serie-backbone-js/)
