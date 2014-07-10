@@ -7,3 +7,4 @@
 - [JavaScript Furtivo | 04 - O Valor dos Tipos de Operadores - Parte 1](http://ericdouglas.github.io/2014/04/15/13-javascript-furtivo-o-valor-dos-tipos-de-operadores-parte-01/)
 - [JavaScript Furtivo | 05 - O Valor dos Tipos de Operadores - Parte 2](http://ericdouglas.github.io/2014/04/19/14-javascript-furtivo-o-valor-dos-tipos-de-operadores-parte-02/)
 - [JavaScript Furtivo | 06 - Expressões JavaScript](http://ericdouglas.github.io/2014/04/23/15-javascript-furtivo-expressoes-javascript/)
+- [JavaScript: invocando funções](http://blog.raphaelivan.com.br/javascript:-invocando-funções.html)
