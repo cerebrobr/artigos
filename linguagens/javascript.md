@@ -8,3 +8,4 @@
 - [JavaScript Furtivo | 05 - O Valor dos Tipos de Operadores - Parte 2](http://ericdouglas.github.io/2014/04/19/14-javascript-furtivo-o-valor-dos-tipos-de-operadores-parte-02/)
 - [JavaScript Furtivo | 06 - Expressões JavaScript](http://ericdouglas.github.io/2014/04/23/15-javascript-furtivo-expressoes-javascript/)
 - [JavaScript: invocando funções](http://blog.raphaelivan.com.br/javascript:-invocando-funções.html)
+- [JavaScript funcional com CoffeeScript e Node](http://imasters.com.br/artigo/24021/javascript/javascript-funcional-com-coffeescript-e-node/)
