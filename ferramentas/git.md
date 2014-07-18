@@ -6,4 +6,4 @@
 - [Trackear (acompanhar) Diretórios Vazios com Git](http://blog.glaucocustodio.com/2013/05/02/trackear-acompanhar-diretorios-vazios-com-git/)
 - [Exibir Branch Atual em Repositórios Git no Terminal](http://blog.glaucocustodio.com/2013/03/15/exibir-branch-atual-em-repositorios-git-no-terminal/)
 - [Instalar Git no Windows](http://blog.glaucocustodio.com/2012/07/27/instalar-git-no-windows/)
-- [Comandos básicos Git](https://github.com/IAMFELIPESOUZA/git-commands)
+- [Comandos básicos Git](http://blog.gustavohenrique.net/2011/03/comandos-basicos-do-git/)
