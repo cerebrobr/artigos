@@ -34,6 +34,7 @@
 - [Adicionando tamanhos de imagens customizados na biblioteca de midias do WordPress 3.5](http://wpmidia.com.br/laboratorio/adicionando-tamanhos-de-imagens-customizados-na-biblioteca-de-midias-wordpress-3-5/)
 - [SQL Update para ajudar na substituição de URL's em casos de migração para novo dominio](http://humbertobz.net/sql-de-update-para-migrar-wordpress/)
 - [GruntJS e WordPress - Ernandes Ferreira](http://ernandesferreira.me/odin/gruntjs-tutorial/)
+- [Como Criar um Tema Wordpress](http://www.wptotal.com/como-criar-um-template-wordpress-parte-1/)
 
 ## Referências
 
