@@ -1,4 +1,4 @@
-# Aprendendo Yeoman
+# Aprendendo Joomla
 
 ---
 
