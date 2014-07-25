@@ -5,3 +5,4 @@
 - [Karma](https://github.com/cerebrobr/artigos/blob/master/ferramentas/karma.md)
 - [Vagrant](https://github.com/cerebrobr/artigos/blob/master/ferramentas/vagrant.md)
 - [Yeoman](https://github.com/cerebrobr/artigos/blob/master/ferramentas/yeoman.md)
+- [Web Components](https://github.com/cerebrobr/artigos/blob/master/ferramentas/web-components.md)
