@@ -9,3 +9,4 @@
 - [JavaScript Furtivo | 06 - Expressões JavaScript](http://ericdouglas.github.io/2014/04/23/15-javascript-furtivo-expressoes-javascript/)
 - [JavaScript: invocando funções](http://blog.raphaelivan.com.br/javascript:-invocando-funções.html)
 - [JavaScript funcional com CoffeeScript e Node](http://imasters.com.br/artigo/24021/javascript/javascript-funcional-com-coffeescript-e-node/)
+- [Sobre Data Atributes e Javascript](http://www.felipefialho.com/blog/2014/sobre-data-atributes-e-javascript/)
