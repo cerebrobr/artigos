@@ -21,7 +21,8 @@
 - [Comunidade on Github - WordPress Brasil](https://github.com/wpbrasil)
 
 ## Artigos
-
+- [Wordpress construindo um template do zero PT-br](http://www.escolawp.com/2010/11/como-criar-um-template-wordpress/)
+- [Wordpress construindo um template do zero PT-br WPTOTAL](http://www.wptotal.com/como-criar-um-template-wordpress-parte-1/)
 - [WordPress Shortcodes: The Right Way](http://code.tutsplus.com/tutorials/wordpress-shortcodes-the-right-way--wp-17165)
 - [Como criar uma pesquisa em AJAX](http://www.escolawp.com/2011/01/como-criar-uma-pesquisa-em-ajax-para-seu-blog-wordpress/)
 - [10 Exceptional WordPress Hacks](http://wp.smashingmagazine.com/2009/04/15/10-exceptional-wordpress-hacks/)
