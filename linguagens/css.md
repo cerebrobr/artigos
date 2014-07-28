@@ -10,3 +10,4 @@
 # Tutoriais
 
 - [Tabela Responsiva](http://www.felipefialho.com/blog/2013/tutorial-tabela-responsiva/#.U9baCvldV9g)
+- [Utilizando o Bootstrap de forma consistente](http://www.felipefialho.com/blog/2014/utilizando-o-bootstrap-de-forma-consistente/)
