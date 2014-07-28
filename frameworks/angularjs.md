@@ -12,4 +12,4 @@
 - [Quando usar Controllers, Services e Directives](http://kirkbushell.me/when-to-use-directives-controllers-or-services-in-angular/)
 - [Exemplo de uso: Services + Controllers + ngMock](http://embed.plnkr.co/B5JTy5GU6ay2Cw5c7LAM/preview)
 - [Exemplo de uso: decorators](http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
-
+- [Entendendo os tipos de Serviços no AngularJS](http://pedronauck.com/angularjs/entendendo-os-tipos-de-servico-do-angularjs)
