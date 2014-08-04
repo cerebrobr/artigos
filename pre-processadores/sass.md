@@ -1,5 +1,3 @@
 # Aprendendo Sass
 
----
-
-#### [Como Contribuir](https://github.com/cerebrobr/cerebro/blob/master/README.md#como-contribuir)
+- [SASS: Mixin ou Placeholder?](http://tableless.com.br/sass-mixin-ou-placeholder/)
