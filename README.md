@@ -11,6 +11,7 @@ Este espaço é uma extensão do repositório **biblioteca** onde contém soment
 - [Ferramentas](https://github.com/cerebrobr/artigos/tree/master/ferramentas)
 - [Frameworks](https://github.com/cerebrobr/artigos/tree/master/frameworks)
 - [Linguagens](https://github.com/cerebrobr/artigos/tree/master/linguagens)
+- [Otimização](https://github.com/cerebrobr/artigos/tree/master/otimizacao)
 - [Pré-processadores](https://github.com/cerebrobr/artigos/tree/master/pre-processadores)
 - [Testes](https://github.com/cerebrobr/artigos/tree/master/testes)
 - [Web Servers](https://github.com/cerebrobr/artigos/tree/master/web-servers)
