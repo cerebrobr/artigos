@@ -14,3 +14,4 @@
 - [Exemplo de uso: decorators](http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
 - [Entendendo os tipos de Serviços no AngularJS](http://pedronauck.com/angularjs/entendendo-os-tipos-de-servico-do-angularjs)
 - [Trabalhando com Thin Directives no AngularJS](http://willmendesneto.github.io/2014/07/26/trabalhando-com-thin-directives-no-angularjs/)
+- [Acessando APIs Externas Usando Serviços do AngularJS](http://code.tutsplus.com/pt/tutorials/accessing-external-apis-using-angularjss-services--cms-21884)

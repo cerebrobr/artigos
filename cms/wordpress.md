@@ -35,6 +35,20 @@
 - [Adicionando tamanhos de imagens customizados na biblioteca de midias do WordPress 3.5](http://wpmidia.com.br/laboratorio/adicionando-tamanhos-de-imagens-customizados-na-biblioteca-de-midias-wordpress-3-5/)
 - [SQL Update para ajudar na substituição de URL's em casos de migração para novo dominio](http://humbertobz.net/sql-de-update-para-migrar-wordpress/)
 - [GruntJS e WordPress - Ernandes Ferreira](http://ernandesferreira.me/odin/gruntjs-tutorial/)
+- [Dica Rápida: Restaurando os Separadores dos Menus do Painel Administrativo](https://code.tutsplus.com/pt/articles/quick-tip-restore-admin-menu-separators--wp-34850)
+- [Orientação a Objetos no WordPress: Introdução](http://code.tutsplus.com/pt/tutorials/object-oriented-programming-in-wordpress-an-introduction--cms-19916)
+- [Orientação a Objetos no WordPress: Classes](http://code.tutsplus.com/pt/tutorials/object-oriented-programming-in-wordpress-classes--cms-20021)
+- [Orientação a Objetos no WordPress: Tipos](http://code.tutsplus.com/pt/tutorials/object-oriented-programming-in-wordpress-types--cms-20299)
+- [Configurando o W3 Total Cache: Cache Avançado de Base de Dados](http://code.tutsplus.com/pt/tutorials/configuring-w3-total-cache-advance-database-cache--cms-21783)
+- [Integrando o Zendesk com o WordPress](http://code.tutsplus.com/pt/tutorials/integrating-zendesk-with-wordpress--cms-21411)
+- [Como as Frameworks para Temas Funcionam de Verdade](http://code.tutsplus.com/pt/tutorials/how-theme-frameworks-actually-work--cms-21349)
+- [Decida Como Desenvolver Sua Framework Para Temas de WordPress](http://code.tutsplus.com/pt/tutorials/deciding-how-to-develop-your-wordpress-theme-framework--cms-21562)
+- [Adicionando Ganchos de Ação à Sua Framework para Temas de WordPress](http://code.tutsplus.com/pt/tutorials/adding-action-hooks-to-your-wordpress-theme-framework--cms-21664)
+- [50 Filtros Para WordPress: Os 10 Primeiros Filtros](http://code.tutsplus.com/pt/tutorials/50-filters-of-wordpress-the-first-10-filters--cms-21295)
+- [50 Filtros Para WordPress: Filtros 11 a 20](http://code.tutsplus.com/pt/tutorials/50-filters-of-wordpress-filters-11-20--cms-21296)
+- [50 Filtros Para WordPress: Filtros 21 a 30](http://code.tutsplus.com/pt/tutorials/50-filters-of-wordpress-filters-21-30--cms-21298)
+- [50 Filtros Para WordPress: Filtros 31 a 40](http://code.tutsplus.com/pt/tutorials/50-filters-of-wordpress-filters-31-40--cms-21297)
+- [50 Ações Para WordPress – Introdução](http://code.tutsplus.com/pt/tutorials/fifty-actions-of-wordpress-an-introduction--cms-21577)
 
 ## Referências
 
