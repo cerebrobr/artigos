@@ -8,3 +8,4 @@
 - [Instalar Git no Windows](http://blog.glaucocustodio.com/2012/07/27/instalar-git-no-windows/)
 - [Comandos básicos Git](http://blog.gustavohenrique.net/2011/03/comandos-basicos-do-git/)
 - [Focando no Trabalho em Equipe Com Git](http://code.tutsplus.com/pt/tutorials/focusing-on-a-team-workflow-with-git--cms-22514)
+- [git-start: Guia básico de utilização do Git](http://fadamiao.github.io/git-start/)
