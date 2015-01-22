@@ -1,6 +1,7 @@
 # Aprendendo Git
 
 - [Manter repositório do Github forkado sincronizado com o original](http://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/)
+- [Atualizando seu fork](http://www.raphaelfabeni.com.br/atualizando-seu-fork/)
 - [Git Flow cheatsheet - (Português)](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
 - [Git Nosso de Cada Dia (Git Cheatsheet)](http://blog.glaucocustodio.com/2013/03/06/git-nosso-de-cada-dia-git-cheatsheet/)
 - [Trackear (acompanhar) Diretórios Vazios com Git](http://blog.glaucocustodio.com/2013/05/02/trackear-acompanhar-diretorios-vazios-com-git/)
