@@ -1,5 +1,7 @@
 # Aprendendo Git
 
+- [Git: Alterando seus commits com rebase - parte 1/2](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-1/)
+- [Git: Alterando seus commits com rebase - parte 2/2](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-2/)
 - [Manter repositório do Github forkado sincronizado com o original](http://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/)
 - [Atualizando seu fork](http://www.raphaelfabeni.com.br/atualizando-seu-fork/)
 - [Git Flow cheatsheet - (Português)](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
