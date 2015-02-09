@@ -17,3 +17,4 @@
 - [Como criar componentes JS usando módulos - AMD, CommonJS e UMD - Parte 1/3](http://blog.da2k.com.br/2015/01/03/como-criar-componentes-js-usando-modulos-amd-commonjs-e-umd-parte-1-3/)
 - [Como criar componentes JS usando módulos - AMD, CommonJS e UMD - Parte 2/3](http://blog.da2k.com.br/2015/01/04/como-criar-componentes-js-usando-modulos-amd-commonjs-e-umd-parte-2-3/)
 - [Como criar componentes JS usando módulos - AMD, CommonJS e UMD - Parte 3/3](http://blog.da2k.com.br/2015/01/05/como-criar-componentes-js-usando-modulos-amd-commonjs-e-umd-parte-3-3/)
+- [Service Workers: Be Offline](http://betomuniz.com/blog/service-workers-be-offline/)
