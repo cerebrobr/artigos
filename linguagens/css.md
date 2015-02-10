@@ -11,3 +11,8 @@
 - [CSS Modular com Mobile First](http://www.felipefialho.com/blog/2014/css-modular-com-mobile-first/)
 - [É possível utilizar componentes desenvolvidos apenas com CSS?](http://www.felipefialho.com/blog/2014/e-possivel-utilizar-componentes-desenvolvidos-apenas-com-css/)
 - [CSS transition e CSS animation](http://tableless.com.br/transition-e-animation/)
+- [Os 30 Seletores CSS Que Você Deve Memorizar](https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+- [O Santo Graal da Centralização com CSS](http://webdesign.tutsplus.com/pt/tutorials/the-holy-grail-of-css-centering--cms-22114)
+- [Criando Pré-Carregadores em CSS3](http://webdesign.tutsplus.com/pt/tutorials/creating-a-collection-of-css3-animated-pre-loaders--cms-21978)
+- [“De Fora Para Dentro” — Ordenando Propriedades CSS por Importância](http://webdesign.tutsplus.com/pt/articles/outside-in-ordering-css-properties-by-importance--cms-21685)
+- [Uma Introdução À Metodologia BEM](http://webdesign.tutsplus.com/pt/articles/an-introduction-to-the-bem-methodology--cms-19403)

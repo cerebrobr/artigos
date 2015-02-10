@@ -15,3 +15,4 @@
 - [Entendendo os tipos de Serviços no AngularJS](http://pedronauck.com/angularjs/entendendo-os-tipos-de-servico-do-angularjs)
 - [Trabalhando com Thin Directives no AngularJS](http://willmendesneto.github.io/2014/07/26/trabalhando-com-thin-directives-no-angularjs/)
 - [Acessando APIs Externas Usando Serviços do AngularJS](http://code.tutsplus.com/pt/tutorials/accessing-external-apis-using-angularjss-services--cms-21884)
+- [Autenticação com Tokens Usando AngularJS & NodeJS](http://code.tutsplus.com/pt/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543)
