@@ -1,5 +1,6 @@
 # Aprendendo CSS
 
+- [CSS: transition pra dar e vender](http://www.raphaelfabeni.com.br/css-transition/)
 - [Criando Filtros com CSS](http://loopinfinito.com.br/2012/04/14/css-filters/)
 - [Criando Shapes com CSS](http://loopinfinito.com.br/2013/07/03/css-shapes/)
 - [CSS Reset – O que é e como usar?](http://blog.thiagobelem.net/css-reset-o-que-e-e-como-usar/)
