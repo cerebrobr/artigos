@@ -1,5 +1,6 @@
 # Aprendendo TDD/BDD
 
+- [Brincando com Jasmine](http://www.raphaelfabeni.com.br/brincando-com-jasmine/)
 - [JavaScript TDD with Jasmine and Karma](http://kroltech.com/2013/11/javascript-tdd-with-jasmine-and-karma/)
 - [AngularJS Testing with Karma and Jasmine](http://www.tuesdaydeveloper.com/2013/06/angularjs-testing-with-karma-and-jasmine/)
 - [Testing in Node.js with Mocha](https://brianstoner.com/blog/testing-in-nodejs-with-mocha/)
