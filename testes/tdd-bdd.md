@@ -1,5 +1,7 @@
 # Aprendendo TDD/BDD
 
+- [Jasmine: criando spies](http://www.raphaelfabeni.com.br/jasmine-criando-spies/)
+- [Jasmine: entendendo os matchers](http://www.raphaelfabeni.com.br/jasmine-entendendo-matchers/)
 - [Brincando com Jasmine](http://www.raphaelfabeni.com.br/brincando-com-jasmine/)
 - [JavaScript TDD with Jasmine and Karma](http://kroltech.com/2013/11/javascript-tdd-with-jasmine-and-karma/)
 - [AngularJS Testing with Karma and Jasmine](http://www.tuesdaydeveloper.com/2013/06/angularjs-testing-with-karma-and-jasmine/)
