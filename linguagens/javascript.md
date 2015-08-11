@@ -1,5 +1,6 @@
 # Aprendendo JavaScript
-
+-[Hoisting e escopo em Javascript](http://loopinfinito.com.br/2014/10/29/hoisting-e-escopo-em-javascript/)
+-[Entendendo escopo e hoisting no Javascript](http://www.hugobessa.com.br/posts/entendendo-escopo-e-hoisting-no-javascript/)
 -[Dicas de bolso de JavaScript - parte 2](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript-2/) 
 -[Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
 - [JavaScript Strict Mode](http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/)
