@@ -6,6 +6,7 @@
 - [CSS transition e CSS animation](http://tableless.com.br/transition-e-animation/)
 - [CSS: transition pra dar e vender](http://www.raphaelfabeni.com.br/css-transition/)
 - [Componentes Responsivos](http://www.raphaelfabeni.com.br/componentes-responsivos/)
+- [Contando elementos com :nth-last-child](http://www.raphaelfabeni.com.br/contando-elementos-nth-last-child/)
 - [Criando Pré-Carregadores em CSS3](http://webdesign.tutsplus.com/pt/tutorials/creating-a-collection-of-css3-animated-pre-loaders--cms-21978)
 - [Criando Filtros com CSS](http://loopinfinito.com.br/2012/04/14/css-filters/)
 - [Criando Shapes com CSS](http://loopinfinito.com.br/2013/07/03/css-shapes/)
@@ -20,3 +21,4 @@
 - [Utilizando o Bootstrap de forma consistente](http://www.felipefialho.com/blog/2014/utilizando-o-bootstrap-de-forma-consistente/)
 - [Tabela Responsiva](http://www.felipefialho.com/blog/2013/tutorial-tabela-responsiva/#.U9baCvldV9g)
 - [Uma Introdução À Metodologia BEM](http://webdesign.tutsplus.com/pt/articles/an-introduction-to-the-bem-methodology--cms-19403)
+- [Usando o currentColor do CSS](http://www.raphaelfabeni.com.br/current-color-css/)
