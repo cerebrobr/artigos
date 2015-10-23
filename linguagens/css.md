@@ -3,6 +3,7 @@
 - [CSS3 em favor da UX](http://www.raphaelfabeni.com.br/css-ux/)
 - [CSS Modular com Mobile First](http://www.felipefialho.com/blog/2014/css-modular-com-mobile-first/)
 - [CSS Reset – O que é e como usar?](http://blog.thiagobelem.net/css-reset-o-que-e-e-como-usar/)
+- [CSS Scroll Snap Points](http://www.raphaelfabeni.com.br/css-scroll-snap-points/)
 - [CSS transition e CSS animation](http://tableless.com.br/transition-e-animation/)
 - [CSS: transition pra dar e vender](http://www.raphaelfabeni.com.br/css-transition/)
 - [Componentes Responsivos](http://www.raphaelfabeni.com.br/componentes-responsivos/)
