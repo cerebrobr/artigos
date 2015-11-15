@@ -1,7 +1,7 @@
 # Aprendendo JavaScript
 
--[Dicas de bolso de JavaScript - parte 2](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript-2/) 
--[Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
+- [Dicas de bolso de JavaScript - parte 2](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript-2/) 
+- [Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
 - [JavaScript Strict Mode](http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/)
 - [Afinal, como é Orientação a Objetos em JavaScript?](http://wbruno.com.br/javascript-puro/afinal-como-e-orientacao-a-objetos-em-javascript-exemplos/)
 - [Orientação a Objetos em Javascript – Função Construtora](http://wbruno.com.br/javascript-puro/orientacao-a-objetos-em-javascript-funcao-construtora/)
