@@ -1,5 +1,10 @@
 # Aprendendo JavaScript
 
+- [ES6: spread operator](http://www.raphaelfabeni.com.br/es6-spread-operator/)
+- [ES6: string templates](http://www.raphaelfabeni.com.br/es6-string-templates/)
+- [ES6: arrow functions em 5 minutos](http://www.raphaelfabeni.com.br/es6-arrow-functions/)
+- [ES6: valores padrão em parâmetros de funções](http://www.raphaelfabeni.com.br/es6-valor-padrao-funcoes/)
+- [ES6: let em exemplos](http://www.raphaelfabeni.com.br/es6-let/)
 - [Dicas de bolso de JavaScript - parte 2](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript-2/) 
 - [Dicas de bolso de JavaScript - parte 1](http://www.raphaelfabeni.com.br/dicas-rapidas-javascript/)
 - [JavaScript Strict Mode](http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/)
