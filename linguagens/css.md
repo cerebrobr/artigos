@@ -1,5 +1,7 @@
 # Aprendendo CSS
 
+- [BEM CSS](http://www.raphaelfabeni.com.br/bem-css/)
+- [CSS Scroll Snap Points](http://www.raphaelfabeni.com.br/css-scroll-snap-points/)
 - [CSS3 em favor da UX](http://www.raphaelfabeni.com.br/css-ux/)
 - [CSS Modular com Mobile First](http://www.felipefialho.com/blog/2014/css-modular-com-mobile-first/)
 - [CSS Reset – O que é e como usar?](http://blog.thiagobelem.net/css-reset-o-que-e-e-como-usar/)
