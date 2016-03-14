@@ -1,5 +1,6 @@
 # Aprendendo JavaScript
 
+- [ES6: destructuring assignment](http://www.raphaelfabeni.com.br/es6-destructuring-assignment/)
 - [ES6: spread operator](http://www.raphaelfabeni.com.br/es6-spread-operator/)
 - [ES6: string templates](http://www.raphaelfabeni.com.br/es6-string-templates/)
 - [ES6: arrow functions em 5 minutos](http://www.raphaelfabeni.com.br/es6-arrow-functions/)
