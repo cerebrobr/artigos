@@ -34,3 +34,4 @@
 - [Aprenda a Criar um Blog Usando Parse.js: Acesso Dos Usuários](http://code.tutsplus.com/pt/tutorials/get-started-building-your-blog-with-parsejs-user-login--cms-22605)
 - [Iniciando Com o Intel XDK](http://code.tutsplus.com/pt/articles/getting-started-with-intel-xdk--cms-22205)
 - [O Básico Sobre as Funções Assíncronas do ES7](http://code.tutsplus.com/pt/tutorials/a-primer-on-es7-async-functions--cms-22367)
+- [O que muda no JavaScript com o EcmaScript 6](http://danielgalvao.github.io/javascript/tecnology/2016/03/15/o-que-muda-no-javascript-com-o-ecmascript-6.html)
