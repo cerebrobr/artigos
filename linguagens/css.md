@@ -3,6 +3,7 @@
 - [BEM CSS](http://www.raphaelfabeni.com.br/bem-css/)
 - [CSS Scroll Snap Points](http://www.raphaelfabeni.com.br/css-scroll-snap-points/)
 - [CSS3 em favor da UX](http://www.raphaelfabeni.com.br/css-ux/)
+- [CSS level 4: custom selectors](http://www.raphaelfabeni.com.br/css-4-custom-selectors/)
 - [CSS level 4: seletor matches](http://www.raphaelfabeni.com.br/css-4-seletor-matches/)
 - [CSS level 4: seletor not](http://www.raphaelfabeni.com.br/css-4-seletor-not/)
 - [CSS Modular com Mobile First](http://www.felipefialho.com/blog/2014/css-modular-com-mobile-first/)
